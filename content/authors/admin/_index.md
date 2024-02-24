@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 吳健雄
+title: Javier Rodríguez Vázquez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Javier
+last_name: Rodriguez Vazquez
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SEDDI
+    url: https://www.seddi.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,21 +30,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Neural Networks
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Universidad Politécnica de Madrid
+      year: 2024
+    - course: MSc in Artificial Intelligence
+      institution: Universidad Politécnica de Madrid
+      year: 2017
+    - course: MEng in Research in Systems Engineering and Comouter Science
+      institution: Universidad de Cádiz
+      year: 2016
+    - course: BSc in Computer Science
+      institution: Universidad de Cádiz
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
