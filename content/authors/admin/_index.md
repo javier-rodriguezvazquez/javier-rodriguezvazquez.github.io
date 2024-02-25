@@ -104,10 +104,10 @@ social:
 #    display:
 #      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.es/citations?user=t1l1vIQAAAAJ&hl=es
-  - icon: orcid
-    icon_pack: brands
+  - icon: github
+    icon_pack: fab
     link: https://orcid.org/0000-0003-0305-7806
   - icon: linkedin
     icon_pack: fab
