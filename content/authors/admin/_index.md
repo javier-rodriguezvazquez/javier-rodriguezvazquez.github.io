@@ -104,11 +104,11 @@ social:
 #    display:
 #      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.es/citations?user=t1l1vIQAAAAJ&hl=es
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/0000-0003-0305-7806
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/francisco-javier-rodriguez-vazquez-b1a764124/
