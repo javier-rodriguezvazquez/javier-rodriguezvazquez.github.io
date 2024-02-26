@@ -65,20 +65,18 @@ sections:
         - title: Research Scientist
           company: Seddi
           company_url: ''
-          company_logo: seddi-logo
+          company_logo: org-gc
           location: Madrid
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics.
+              * I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: ucm.png
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
