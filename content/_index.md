@@ -70,9 +70,7 @@ sections:
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics.
-              * I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
+              As a Research Scientist at SEDDI, I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics. Also, I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
         - title: Research Scientist
           company: Computer Vision and Aerial Robotics |  Universidad Politécnica de Madrid 
           company_url: 'https://vimeo.com/cvarupm'
