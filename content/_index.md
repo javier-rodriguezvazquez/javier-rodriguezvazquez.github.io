@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    - title: Research Scientist
+        - title: Research Scientist
           company: Seddi
           company_url: 'https://seddi.com/'
           company_logo: seddi-logo
