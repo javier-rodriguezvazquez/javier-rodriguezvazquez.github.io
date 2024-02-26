@@ -64,8 +64,8 @@ sections:
       items:
         - title: Research Scientist
           company: Seddi
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://seddi.com/'
+          company_logo: seddi-logo
           location: Madrid
           date_start: '2023-03-01'
           date_end: ''
@@ -73,14 +73,14 @@ sections:
               Responsibilities include:
               * I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics.
               * I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: ucm.png
-          location: California
+        - title: Research Scientist
+          company: Computer Vision and Aerial Robotics |  Universidad Politécnica de Madrid 
+          company_url: 'https://vimeo.com/cvarupm'
+          company_logo: cvar
+          location: Madrid
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2023-03-01'
+          description: As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research. During this time, i worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.
     design:
       columns: '2'
   - block: accomplishments
