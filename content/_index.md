@@ -89,7 +89,7 @@ sections:
           date_start: '2016-10-01'
           date_end: '2020-02-01'
           description: 'As part of two EU H2020 projects, POLAR-EM and MAGTOOLS, I developed software tools for efficient and reliable analysis of magnetic materials in electron microscopy imaging.'
-          - title: Consulting Intern 
+        - title: Consulting Intern 
           company: AICAM |  Altran 
           company_url: ''
           company_logo: altran
@@ -97,7 +97,7 @@ sections:
           date_start: '2016-05-01'
           date_end: '2016-10-01'
           description: 'As an intern at the Altran Innovation Centre for Advanced Manufacturing, I gained experience working with virtual and augmented reality-based simulators for advanced manufacturing systems and worker training, providing practical and immersive learning opportunities in this field.'
-          - title: Research Assistant 
+        - title: Research Assistant 
           company: SIC |  Universidad de Cádiz 
           company_url: ''
           company_logo: uca
