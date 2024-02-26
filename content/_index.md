@@ -80,7 +80,7 @@ sections:
           location: Madrid
           date_start: '2016-01-01'
           date_end: '2023-03-01'
-          description: As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research. During this time, i worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.
+          description: 'As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research During this time, i worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.'
     design:
       columns: '2'
   - block: accomplishments
