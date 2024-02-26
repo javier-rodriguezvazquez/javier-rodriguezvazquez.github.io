@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: Seddi
           company_url: ''
-          company_logo: org-gc
+          company_logo: seddi-logo
           location: Madrid
           date_start: '2023-03-01'
           date_end: ''
