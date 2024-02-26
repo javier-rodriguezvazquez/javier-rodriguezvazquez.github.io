@@ -62,14 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Scientist
+    - title: Research Scientist
           company: Seddi
           company_url: 'https://seddi.com/'
           company_logo: seddi-logo
           location: Madrid
           date_start: '2023-03-01'
           date_end: ''
-          description: 'As a Research Scientist at SEDDI, I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics. I am also in charge of the continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.'
+          description: |2-
+              Responsibilities include:
+              * I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics.
+              * I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
         - title: Research Scientist
           company: Computer Vision and Aerial Robotics |  Universidad Politécnica de Madrid 
           company_url: 'https://vimeo.com/cvarupm'
