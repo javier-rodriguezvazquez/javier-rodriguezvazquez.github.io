@@ -69,18 +69,39 @@ sections:
           location: Madrid
           date_start: '2023-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-              * I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics.
-              * I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
+          description: 'As a Research Scientist at SEDDI, I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics. I am also in charge of the continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.'
         - title: Research Scientist
           company: Computer Vision and Aerial Robotics |  Universidad Politécnica de Madrid 
           company_url: 'https://vimeo.com/cvarupm'
           company_logo: cvar
           location: Madrid
-          date_start: '2016-01-01'
+          date_start: '2017-08-01'
           date_end: '2023-03-01'
-          description: 'As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research. During this time, i worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.'
+          description: 'As a member of the Computer Vision and Aerial Robotics Research Group, I developed learning based computer vision algorithms for aerial robotic perception, with a strong focus on applied research and industriy collaboration in real world problems. During this time, I worked on my PhD. thesis, entitled: Adaptive Learning with Weak Supervision for Robotic Perception,  with a focus on developing unsupervised methods to reduce the amount of data required to train deep learning models.'
+        - title: Research Assistant 
+          company: GFMC |  Universidad Politécnica de Madrid 
+          company_url: ''
+          company_logo: ucm
+          location: Madrid
+          date_start: '2016-10-01'
+          date_end: '2020-02-01'
+          description: 'As part of two EU H2020 projects, POLAR-EM and MAGTOOLS, I developed software tools for efficient and reliable analysis of magnetic materials in electron microscopy imaging.'
+          - title: Consulting Intern 
+          company: AICAM |  Altran 
+          company_url: ''
+          company_logo: altran
+          location: Cádiz
+          date_start: '2016-05-01'
+          date_end: '2016-10-01'
+          description: 'As an intern at the Altran Innovation Centre for Advanced Manufacturing, I gained experience working with virtual and augmented reality-based simulators for advanced manufacturing systems and worker training, providing practical and immersive learning opportunities in this field.'
+          - title: Research Assistant 
+          company: SIC |  Universidad de Cádiz 
+          company_url: ''
+          company_logo: uca
+          location: Cádiz
+          date_start: '2014-09-01'
+          date_end: '2016-05-01'
+          description: 'During my time with the Intelligent Computation Systems research group, I focused on using CUDA-enabled GPUs to accelerate tomography reconstruction algorithms for electron microscopy imaging. Additionally, I developed a low-cost system for indoor positioning based on multiview cameras.'
     design:
       columns: '2'
   - block: accomplishments
