@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Neural Networks
+  - Robotic Perception
 
 # Education to show in About widget
 education:
