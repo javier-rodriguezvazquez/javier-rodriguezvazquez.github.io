@@ -8,7 +8,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2010-06-01T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 doi: "https://doi.org/10.1109/ACCESS.2020.3006191"
 
 # Schedule page publish date (NOT publication's date).
