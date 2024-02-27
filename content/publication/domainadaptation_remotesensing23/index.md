@@ -8,7 +8,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-03-22T00:00:00Z"
 doi: "https://doi.org/10.3390/rs15061700"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Sensors*(1)"
 publication_short: ""
 
 abstract: "This paper presents a novel semi-supervised approach for accurate counting and localization of tropical plants in aerial images that can work in new visual domains in which the available data are not labeled. Our approach uses deep learning and domain adaptation, designed to handle domain shifts between the training and test data, which is a common challenge in this agricultural applications. This method uses a source dataset with annotated plants and a target dataset without annotations and adapts a model trained on the source dataset to the target dataset using unsupervised domain alignment and pseudolabeling. The experimental results show the effectiveness of this approach for plant counting in aerial images of pineapples under significative domain shift, achieving a reduction up to 97% in the counting error (1.42 in absolute count) when compared to the supervised baseline (48.6 in absolute count)."
@@ -29,7 +29,7 @@ abstract: "This paper presents a novel semi-supervised approach for accurate cou
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Sensors
 featured: true
 
 # links:
