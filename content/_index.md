@@ -62,13 +62,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher & Project Leader
+          company: Arquimea Research Center
+          company_url: 'https://www.arquimea.com/es/imasd/research-center/'
+          company_logo: arc-logo
+          location: Tenerife
+          date_start: '2024-05-01'
+          date_end: ''
+          description: |2-
+              As a Postdoctoral Researcher and Team Lead at Arquimea Research Center, I lead a group of five researchers within the Safe Autonomy line. My work focuses on developing methods to endow intelligent agents with autonomy in embodied AI scenarios, particularly in unstructured environments. I am especially interested in advancing safety, situational awareness, and factual memory mechanisms, enabling agents to integrate knowledge about their surroundings and act reliably. Through this research, we aim to provide robust and safe autonomy in real-world complex settings..
         - title: Research Scientist
           company: Seddi
           company_url: 'https://seddi.com/'
           company_logo: seddi-logo
           location: Madrid
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2024-05-01'
           description: |2-
               As a Research Scientist at SEDDI, I currently work on researching new learning based methods for improving fabric materials digitization from single images and generative modeling of SVBRDF materials among other topics. Also, I am charge of continuous improvement efforts for the neural network model behind [textura.ai](https://textura.ai/), SEDDI's flagship fabric digitization tool, ensuring it remains at the forefront of the industry.
         - title: Research Scientist
