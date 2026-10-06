@@ -25,7 +25,7 @@ organizations:
     url: https://www.arquimea.com/es/imasd/research-center/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include visual perception, deep learning and unsupervised learning.
+bio: Principal Researcher in Artificial Intelligence working on generalizable autonomy, embodied AI, adaptive agents, planning, memory, and robot learning.
 
 # Interests to show in About widget
 interests:
@@ -117,5 +117,9 @@ social:
 highlight_name: true
 ---
 
-Hello! I'm Javier, a (about to be) PhD in Artificial Intelligence. My research interests include visual perception, deep learning and unsupervised learning. I am passionate about solving visual perception problems using neural networks, and I am always looking for new challenges and opportunities to learn. Currently I'm a Research Scientist at SEDDI, working in the team behind textura.ai.
+I’m a Principal Researcher in Artificial Intelligence at ARQUIMEA Research Center, where I lead research on Generalizable Autonomy for intelligent and autonomous systems.
+
+My work focuses on world models, embodied AI, adaptive agents, planning, memory and robot learning, with the goal of building systems that can perceive, reason and adapt beyond their training conditions.
+
+I have around a decade of experience in AI, spanning computer vision, deep learning, robotics and UAVs, and I’m particularly interested in bridging fundamental AI research with real autonomous systems.
 {style="text-align: justify;"}
