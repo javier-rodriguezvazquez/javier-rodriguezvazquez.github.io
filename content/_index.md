@@ -11,32 +11,6 @@ sections:
       username: admin
 
   - block: markdown
-    id: impact
-    content:
-      title: ''
-      text: |-
-        <div class="impact-grid" role="list" aria-label="Research and career highlights">
-          <div class="impact-stat" role="listitem">
-            <span class="impact-value">300+</span>
-            <span class="impact-label">Google Scholar citations</span>
-          </div>
-          <div class="impact-stat" role="listitem">
-            <span class="impact-value">h-index 7</span>
-            <span class="impact-label">Research impact</span>
-          </div>
-          <div class="impact-stat" role="listitem">
-            <span class="impact-value">10+ years</span>
-            <span class="impact-label">Working in AI and robotics</span>
-          </div>
-          <div class="impact-stat" role="listitem">
-            <span class="impact-value">3rd place</span>
-            <span class="impact-label">MBZIRC 2020 Grand Challenge</span>
-          </div>
-        </div>
-    design:
-      columns: '1'
-
-  - block: markdown
     id: research
     content:
       title: Research Focus
