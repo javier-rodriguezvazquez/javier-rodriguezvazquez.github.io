@@ -9,7 +9,7 @@ authors:
   - Pascual Campoy
 date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
-doi: "https://doi.org/10.1142/S2301385022410035"
+doi: "10.1142/S2301385022410035"
 publication_types: ["article-journal"]
 publication: "*Unmanned Systems*, 10(4), 355–367"
 publication_short: ""

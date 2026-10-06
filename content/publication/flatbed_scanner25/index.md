@@ -8,7 +8,7 @@ authors:
   - Elena Garces
 date: "2025-03-01T00:00:00Z"
 publishDate: "2025-03-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cag.2025.104186"
+doi: "10.1016/j.cag.2025.104186"
 publication_types: ["article-journal"]
 publication: "*Computers & Graphics*, 127, 104186"
 publication_short: ""

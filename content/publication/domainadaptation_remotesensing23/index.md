@@ -5,11 +5,12 @@ authors:
 - Miguel Fernández-Cortizas
 - David Pérez-Saura
 - Martin Molina
+- Pascual Campoy
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-03-22T00:00:00Z"
-doi: "https://doi.org/10.3390/rs15061700"
+doi: "10.3390/rs15061700"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-22T00:00:00Z"
@@ -20,7 +21,7 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Remote Sensing*(1)"
+publication: "*Remote Sensing*, 15(6), 1700"
 publication_short: ""
 
 abstract: "This paper presents a novel semi-supervised approach for accurate counting and localization of tropical plants in aerial images that can work in new visual domains in which the available data are not labeled. Our approach uses deep learning and domain adaptation, designed to handle domain shifts between the training and test data, which is a common challenge in this agricultural applications. This method uses a source dataset with annotated plants and a target dataset without annotations and adapts a model trained on the source dataset to the target dataset using unsupervised domain alignment and pseudolabeling. The experimental results show the effectiveness of this approach for plant counting in aerial images of pineapples under significative domain shift, achieving a reduction up to 97% in the counting error (1.42 in absolute count) when compared to the supervised baseline (48.6 in absolute count)."
@@ -65,13 +66,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

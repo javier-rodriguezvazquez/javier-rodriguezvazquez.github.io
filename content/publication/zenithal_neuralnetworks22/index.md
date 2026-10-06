@@ -3,13 +3,13 @@ title: "Zenithal isotropic object counting by localization using adversarial tra
 authors:
 - admin
 - Adrián Alvarez-Fernandez
-- MArtin Molina
+- Martin Molina
 - Pascual Campoy
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.neunet.2021.10.010"
+doi: "10.1016/j.neunet.2021.10.010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-22T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Neural Networks*(145)"
+publication: "*Neural Networks*, 145, 155–163"
 publication_short: ""
 
 abstract: "Counting objects in images is a very time-consuming task for humans that yields to errors caused by repetitiveness and boredom. In this paper, we present a novel object counting method that, unlike most of the recent works that focus on the regression of a density map, performs the counting procedure by localizing each single object. This key difference allows us to provide not only an accurate count but the position of every counted object, information that can be critical in some areas such as precision agriculture. The method is designed in two steps: first, a CNN is in charge of mapping arbitrary objects to blob-like structures. Then, using a Laplacian of Gaussian (LoG) filter, we are able to gather the position of all detected objects. We also propose a semi-adversarial training procedure that, combined with the former design, improves the result by a large margin. After evaluating the method on two public benchmarks of isometric objects, we stay on par with the state of the art while being able to provide extra position information."
@@ -65,13 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

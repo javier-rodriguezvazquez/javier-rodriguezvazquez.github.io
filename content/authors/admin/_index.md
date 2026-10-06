@@ -9,10 +9,6 @@ title: Javier Rodríguez Vázquez
 first_name: Javier
 last_name: Rodriguez Vazquez
 
-# Status emoji
-status:
-  icon: 💀
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -29,10 +25,10 @@ bio: Principal Researcher in Artificial Intelligence working on generalizable au
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Neural Networks
-  - Robotic Perception
+  - Generalizable Autonomy
+  - Embodied AI
+  - World Models
+  - Robot Learning
 
 # Education to show in About widget
 education:
@@ -91,28 +87,19 @@ skills:
         icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.es/citations?user=t1l1vIQAAAAJ&hl=es
+    label: Google Scholar
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-0305-7806
+    label: ORCID
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/francisco-javier-rodriguez-vazquez-b1a764124/
+    label: LinkedIn
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
@@ -122,4 +109,3 @@ I’m a Principal Researcher in Artificial Intelligence at ARQUIMEA Research Cen
 My work focuses on world models, embodied AI, adaptive agents, planning, memory and robot learning, with the goal of building systems that can perceive, reason and adapt beyond their training conditions.
 
 I have around a decade of experience in AI, spanning computer vision, deep learning, robotics and UAVs, and I’m particularly interested in bridging fundamental AI research with real autonomous systems.
-{style="text-align: justify;"}

@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-01-01T00:00:00Z"
-doi: "https://doi.org/10.55417/fr.2022044"
+doi: "10.55417/fr.2022044"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-22T00:00:00Z"
@@ -29,7 +29,7 @@ publishDate: "2021-06-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Field Robotics*(1)"
+publication: "*Field Robotics*, 2(1), 1320–1350"
 publication_short: ""
 
 abstract: "In recent years, high-speed navigation and environment interaction in the context of aerial
@@ -54,7 +54,7 @@ at 6 m/s in an outdoor environment."
 
 tags:
 - Field Robotics
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -89,13 +89,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
