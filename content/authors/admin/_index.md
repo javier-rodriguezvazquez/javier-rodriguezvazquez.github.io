@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SEDDI
-    url: https://www.seddi.com/
+  - name: ARQUIMEA Research Center
+    url: https://www.arquimea.com/es/imasd/research-center/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include visual perception, deep learning and unsupervised learning.
@@ -113,13 +113,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/francisco-javier-rodriguez-vazquez-b1a764124/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---

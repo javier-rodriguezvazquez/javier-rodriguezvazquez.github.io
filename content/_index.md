@@ -62,15 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Researcher & Project Leader
-          company: Arquimea Research Center
+        - title: Principal Researcher
+          company: ARQUIMEA Research Center
           company_url: 'https://www.arquimea.com/es/imasd/research-center/'
           company_logo: arc-logo
-          location: Tenerife
-          date_start: '2024-05-01'
+          location: Remote
+          date_start: '2026-01-01'
           date_end: ''
           description: |2-
-              As a Postdoctoral Researcher and Team Lead at Arquimea Research Center, I lead a group of five researchers within the Safe Autonomy line. My work focuses on developing methods to endow intelligent agents with autonomy in embodied AI scenarios, particularly in unstructured environments. I am especially interested in advancing safety, situational awareness, and factual memory mechanisms, enabling agents to integrate knowledge about their surroundings and act reliably. Through this research, we aim to provide robust and safe autonomy in real-world complex settings..
+              I lead the Generalizable Autonomy research line at ARQUIMEA Research Center.
+        - title: Project Leader & Postdoctoral Researcher
+          company: ARQUIMEA Research Center
+          company_url: 'https://www.arquimea.com/es/imasd/research-center/'
+          company_logo: arc-logo
+          location: Remote
+          date_start: '2025-06-01'
+          date_end: '2026-01-01'
+          description: |2-
+              I led research projects focused on autonomous intelligent agents for embodied AI scenarios, with particular emphasis on safe operation in complex, unstructured environments.
+        - title: Postdoctoral Researcher
+          company: ARQUIMEA Research Center
+          company_url: 'https://www.arquimea.com/es/imasd/research-center/'
+          company_logo: arc-logo
+          location: Remote
+          date_start: '2024-05-01'
+          date_end: '2025-06-01'
+          description: |2-
+              I researched methods for robust autonomy, situational awareness, and factual memory in embodied intelligent agents.
         - title: Research Scientist
           company: Seddi
           company_url: 'https://seddi.com/'

@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.55417/fr.2022044"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-22T00:00:00Z"
